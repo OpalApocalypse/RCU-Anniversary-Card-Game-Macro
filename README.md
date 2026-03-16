@@ -25,6 +25,6 @@ Automatically use all your cards 1-by-1, 5 at once, or 50 at a time on loop.
 ---
 
 ## Upcoming Changes to Next Release:
-- [ ] Fixing the detection of when you're out of tickets.
+- [ ] [Fixing the detection of when you're out of tickets](https://github.com/OpalApocalypse/RCU-Anniversary-Card-Game-Macro/issues/1) (#1)
 - [ ] Maybe slightly better UI? Eh, though.
 ---
